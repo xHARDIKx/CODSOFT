@@ -33,10 +33,10 @@ Grade Calculation: Assign grades based on the average percentage achieved.
 Display Results: Show the total marks, average percentage, and the corresponding grade to the user.
 These tasks demonstrate your ability to develop interactive games and perform calculations based on user input. Feel free to include more details, code snippets, or explanations for each task in your Git repository to showcase your work during the Codsoft internship.
 
-**Task 3: ATM Simulator**
+**Task 3: ATM Interface**
 
 
-Objective: Create an ATM simulator program that mimics the functionality of a real ATM machine.
+Objective: Create an ATM Interface program that mimics the functionality of a real ATM machine.
 
 Steps:
 
